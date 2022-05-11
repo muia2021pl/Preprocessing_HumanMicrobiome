@@ -46,6 +46,8 @@ import Microbiome_featureselection
 3. metagenomics (mgx) 
 4. metatranscriptomics (mtx)
 5. Selected participants IDs (3omics + 4tps)
+
+Files where downloaded from: https://ibdmdb.org/tunnel/public/summary.html
 """
 
 pd.options.display.max_colwidth = 250
